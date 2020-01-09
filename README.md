@@ -1,4 +1,4 @@
-# Attendance-Management
+# Attendance-Management System in PHP
 ![Intro of Attendance System](https://raw.githubusercontent.com/Fasliya/Attendance-Management/master/screenshots/4.png)
  
  SLIIT 2nd Year 2nd Semester ITP  Project
